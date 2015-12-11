@@ -1,2 +1,5 @@
 echo "hello world"
-exit 0
+echo "world"
+echo "rld"
+echo "ld"
+
